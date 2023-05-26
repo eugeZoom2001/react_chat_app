@@ -1,0 +1,12 @@
+.vscode
+client/bk
+client/.vscode
+client/test
+client/package-lock.json
+client/src/test_components
+client/node_modules
+server/bk
+server/.vscode
+server/test
+server/package-lock.json
+server/node_modules
