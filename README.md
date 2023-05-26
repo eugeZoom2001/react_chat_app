@@ -1,4 +1,4 @@
-# simple chat with react and node
+# simple chat with react & node
 
 ## Setup the project & run
 
